@@ -1,3 +1,10 @@
+# Script to play latina.fr radio (rtmp:// stream)
+# Script currently doesn't work. It hangs XBMC when I press play
+#
+# Author: jerome@coffeebreaks.org
+#
+# Also follow up http://trac.xbmc.org/ticket/8971
+#
 import xbmc, xbmcgui
 
 #get actioncodes from keymap.xml
